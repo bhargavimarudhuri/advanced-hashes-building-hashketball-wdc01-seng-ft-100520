@@ -8,7 +8,7 @@ def game_hash()
   players = []
 
   player = {}
-  player[:player_name]  = Alan Anderson
+  player[:player_name]  = "Alan Anderson"
   player[:number]     = 0     
   player[:shoe]       = 16      
   player[:points]     = 22      
@@ -20,7 +20,7 @@ def game_hash()
   players.push(player)
 
   player = {}
-  player[:player_name]  = Reggie Evans
+  player[:player_name]  = "Reggie Evans"
   player[:number]     = 30      
   player[:shoe]       = 14      
   player[:points]     = 12      
