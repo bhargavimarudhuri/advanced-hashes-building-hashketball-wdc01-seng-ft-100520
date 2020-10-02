@@ -136,4 +136,6 @@ def game_hash()
   players.push(player)
 
   result[:away][:players] = players
+  
+  result
 end
