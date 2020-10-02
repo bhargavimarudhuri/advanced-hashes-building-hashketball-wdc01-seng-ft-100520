@@ -56,7 +56,7 @@ def game_hash()
   players.push(player)
 
   player = {}
-  player[:player_name]= "Jason Terr"
+  player[:player_name]= "Jason Terry"
   player[:number]     = 31
   player[:shoe]       = 15
   player[:points]     = 19
